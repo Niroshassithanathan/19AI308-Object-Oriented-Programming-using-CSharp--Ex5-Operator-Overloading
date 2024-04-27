@@ -80,7 +80,8 @@ class Program
 }
 ```
 # OUTPUT:
-![](./out.png)
+<img width="422" alt="image" src="https://github.com/Niroshassithanathan/19AI308-Object-Oriented-Programming-using-CSharp--Ex5-Operator-Overloading/assets/121418437/ee350361-6de0-40d6-9e8d-1931bfa09c13">
+
 
 # RESULT:
 Thus,the program to illustrate operating overloading is successfully implemented.
